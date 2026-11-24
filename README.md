@@ -13,4 +13,4 @@ automation demo, built in public over 15 days.
 
 **Stack:** C# · ASP.NET Core · PostgreSQL · n8n · Next.js · Supabase · OpenAI/Gemini
 
-📫 Work with me: [LinkedIn] https://www.linkedin.com/in/narasimha-murthy-s-n-06b63520/ · [Email] mailto:narasimhamurthysnnm@gmail.com
+📫 Work with me: LinkedIn -> https://www.linkedin.com/in/narasimha-murthy-s-n-06b63520/ · Email -> narasimhamurthysnnm@gmail.com
